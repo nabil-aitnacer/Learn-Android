@@ -6,7 +6,9 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e360155c-550f-42f8-b170-3c26f710bb5a" name="Default Changelist" comment="" />
+    <list default="true" id="e360155c-550f-42f8-b170-3c26f710bb5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -113,5 +115,11 @@
       <updated>1602221905264</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="328" key="com.intellij.ide.util.TipDialog" timestamp="1602474097301">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="536" y="328" key="com.intellij.ide.util.TipDialog/0.0.1680.1010/1680.0.1280.984@0.0.1680.1010" timestamp="1602474097301" />
   </component>
 </project>
